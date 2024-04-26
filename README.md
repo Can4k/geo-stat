@@ -6,7 +6,7 @@
 
 В качестве пропса принимается карта и её описания, а в ответ сервис создает **HTML** файл с изображением карты и нанесенной на не метрикой. 
 
-[Пример исследования](https://docs.google.com/document/d/1iJKBmP9QBB7d1IpQH2oM7f3wsKP5yomvwrFWpiUgaTM/edit?usp=sharing)
+[Пример исследования](https://docs.google.com/presentation/d/1lFXnC757BKU5GM0RU6lJtbRIPMnrC0HbPXqCMLfLjEw/edit?usp=sharing)
 
 ## Конфигурация
 В папке `config` находится два файла конфигурации, `app.config.json` и `map.config.json` 
