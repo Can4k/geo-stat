@@ -1,0 +1,168 @@
+{
+  "imageProperties": {
+    "height": 1920,
+    "width": 1254,
+    "imageName": "map.png"
+  },
+  "marks": {
+    "dotWidth": 10,
+    "dotHeight": 10,
+    "dotFillStyle": "#00000077",
+    "fontShiftX": 15,
+    "fontShiftY": 10,
+    "font": "14px bold",
+    "fontFillStyle": "#000"
+  },
+  "countries": [
+    {
+      "regionPrefix": "na",
+      "engAbb": "aia",
+      "locatedName": "Ангилья",
+      "cords": {
+        "x": 1391,
+        "y": 558
+      },
+      "mode": "right"
+    },
+    {
+      "regionPrefix": "na",
+      "engAbb": "atg",
+      "locatedName": "Антигуа и Барбуда",
+      "cords": {
+        "x": 1433,
+        "y": 607
+      },
+      "mode": "right"
+    },
+    {
+      "regionPrefix": "na",
+      "engAbb": "bhs",
+      "locatedName": "Багамы",
+      "cords": {
+        "x": 887,
+        "y": 224
+      },
+      "mode": "right"
+    },
+    {
+      "regionPrefix": "na",
+      "engAbb": "brb",
+      "locatedName": "Барбадос",
+      "cords": {
+        "x": 1509,
+        "y": 798
+      },
+      "mode": "right"
+    },
+    {
+      "regionPrefix": "na",
+      "engAbb": "cub",
+      "locatedName": "Куба",
+      "cords": {
+        "x": 690,
+        "y": 363
+      },
+      "mode": "right"
+    },
+    {
+      "regionPrefix": "na",
+      "engAbb": "dma",
+      "locatedName": "Доминика",
+      "cords": {
+        "x": 1447,
+        "y": 697
+      },
+      "mode": "right"
+    },
+    {
+      "regionPrefix": "na",
+      "engAbb": "grd",
+      "locatedName": "Гренада",
+      "cords": {
+        "x": 1426,
+        "y": 849
+      },
+      "mode": "right"
+    },
+    {
+      "regionPrefix": "na",
+      "engAbb": "hti",
+      "locatedName": "Гаити",
+      "cords": {
+        "x": 1028,
+        "y": 524
+      },
+      "mode": "left"
+    },
+    {
+      "regionPrefix": "na",
+      "engAbb": "jam",
+      "locatedName": "Ямайка",
+      "cords": {
+        "x": 797,
+        "y": 571
+      },
+      "mode": "right"
+    },
+    {
+      "regionPrefix": "na",
+      "engAbb": "kna",
+      "locatedName": "Сент-Китс и Невис",
+      "cords": {
+        "x": 1397,
+        "y": 627
+      },
+      "mode": "left"
+    },
+    {
+      "regionPrefix": "na",
+      "engAbb": "lca",
+      "locatedName": "Сент-Люсия",
+      "cords": {
+        "x": 1456,
+        "y": 774
+      },
+      "mode": "left"
+    },
+    {
+      "regionPrefix": "na",
+      "engAbb": "vct",
+      "locatedName": "Сент-Винсент и Гренадины",
+      "cords": {
+        "x": 1444,
+        "y": 804
+      },
+      "mode": "left"
+    },
+    {
+      "regionPrefix": "na",
+      "engAbb": "tca",
+      "locatedName": "Острова Теркс и Кайкос",
+      "cords": {
+        "x": 1059,
+        "y": 420
+      },
+      "mode": "right"
+    },
+    {
+      "regionPrefix": "na",
+      "engAbb": "usa",
+      "locatedName": "США",
+      "cords": {
+        "x": 776,
+        "y": 142
+      },
+      "mode": "right"
+    },
+    {
+      "regionPrefix": "na",
+      "engAbb": "dom",
+      "locatedName": "Доминиканская Республика",
+      "cords": {
+        "x": 1087,
+        "y": 521
+      },
+      "mode": "right"
+    }
+  ]
+}

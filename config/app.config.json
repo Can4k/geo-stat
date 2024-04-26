@@ -1,0 +1,6 @@
+{
+  "outputFolder": "./output/",
+  "outputFilename": "result.html",
+  "assetsFolder": "./assets/",
+  "mode": "absolute"
+}
